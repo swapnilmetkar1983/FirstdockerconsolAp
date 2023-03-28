@@ -1,0 +1,12 @@
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.exe
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.deps.json
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.runtimeconfig.json
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.runtimeconfig.dev.json
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.dll
+C:\Users\swapn\source\repos\LearningDocker1\bin\Debug\netcoreapp3.1\LearningDocker1.pdb
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.csprojAssemblyReference.cache
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.AssemblyInfoInputs.cache
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.AssemblyInfo.cs
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.dll
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.pdb
+C:\Users\swapn\source\repos\LearningDocker1\obj\Debug\netcoreapp3.1\LearningDocker1.genruntimeconfig.cache

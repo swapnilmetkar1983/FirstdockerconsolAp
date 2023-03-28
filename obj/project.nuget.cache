@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQjOhewTXVfi6D3sg7HyJ5DgtKMv5tgTKKAWtfkIJrW/N8BMauoHcYaeCPiUZ4yKDK90L7YDr7M9OeJelNmeWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\swapn\\source\\repos\\LearningDocker1\\LearningDocker1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swapn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
